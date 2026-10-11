@@ -45,3 +45,6 @@ An interactive quiz application with multiple-choice questions, answer feedback,
 ## 📫 Connect With Me
 
 Feel free to explore my repositories and projects.
+
+- **LinkedIn:** [Ahmad Mughal](https://www.linkedin.com/in/ahmad-mughal-829233443/)
+- **Portfolio:** [Visit My Portfolio](https://ammughal13.github.io/Portfolio-Website/)
